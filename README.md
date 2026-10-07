@@ -250,4 +250,4 @@ This repository serves as the official landing page for AnyTrans. The software i
 **Get the most recent version of AnyTrans today!**
 
 ---
-**Last updated:** 2026-10-06 20:08:57 UTC
+**Last updated:** 2026-10-07 00:31:27 UTC
